@@ -6,3 +6,5 @@ print("Te2222222222terh")
 print("Te2222222222terh")
 print("Te2222222222terh")
 print("Te2222222222terh")
+
+def_test():
